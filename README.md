@@ -1,6 +1,18 @@
-### Hi there 👋
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellachoy)](https://github.com/ellachoy/github-readme-stats)
+
+
+# Skills
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>-->
+<img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=CSS3&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-white?style=flat&logo=CSS3&logoColor=61DAFB"/>
+
+
+## Contact
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ellachoy)](https://github.com/ellachoy)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ella-c-2b2201153/)](https://www.linkedin.com/in/https://www.linkedin.com/in/ella-c-2b2201153/)
