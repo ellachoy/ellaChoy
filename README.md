@@ -1,4 +1,4 @@
-
+###  🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode (until November 2021)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellachoy)](https://github.com/ellachoy/github-readme-stats)
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/React-white?style=flat&logo=CSS3&logoColor=61DAFB"/>
 
 
-## Contact
+## 📫 How to reach me: Contact
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ellachoy)](https://github.com/ellachoy)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ella-c-2b2201153/)](https://www.linkedin.com/in/ella-c-2b2201153/)
