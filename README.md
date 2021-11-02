@@ -6,7 +6,7 @@
 
 # Skills
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />,
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=CSS3&logoColor=F7DF1E"/>
