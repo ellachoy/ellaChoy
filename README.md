@@ -1,4 +1,4 @@
-###  🌱 Even if I knew that tomorrow the world would go to pieces, I would still coding today
+###  ✨  Even if I knew that tomorrow the world would go to pieces, I would still coding today
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellachoy)](https://github.com/ellachoy/github-readme-stats)
