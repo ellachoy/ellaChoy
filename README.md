@@ -1,5 +1,4 @@
-###  🌱 I’m currently doing the Fullstack Web Development Bootcamp @ SuperCode (until November 2021)
-### 🌱 I’m currently learning: Problem Solvingskills, Mental Trainning, Team Working 
+###  🌱 Even if I knew that tomorrow the world would go to pieces, I would still coding today
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellachoy)](https://github.com/ellachoy/github-readme-stats)
